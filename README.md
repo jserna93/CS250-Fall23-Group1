@@ -1,4 +1,4 @@
-# CS250-Fall23-Group1
+# CS250-S24-Group01
 
 Matthew Sprague
 Jesus Serna
